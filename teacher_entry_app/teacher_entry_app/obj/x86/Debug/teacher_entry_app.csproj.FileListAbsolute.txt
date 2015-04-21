@@ -1,0 +1,11 @@
+c:\users\abhinay\documents\visual studio 2010\Projects\teacher_entry_app\teacher_entry_app\bin\Debug\teacher_entry_app.exe
+c:\users\abhinay\documents\visual studio 2010\Projects\teacher_entry_app\teacher_entry_app\bin\Debug\teacher_entry_app.pdb
+c:\users\abhinay\documents\visual studio 2010\Projects\teacher_entry_app\teacher_entry_app\obj\x86\Debug\MainWindow.baml
+c:\users\abhinay\documents\visual studio 2010\Projects\teacher_entry_app\teacher_entry_app\obj\x86\Debug\MainWindow.g.cs
+c:\users\abhinay\documents\visual studio 2010\Projects\teacher_entry_app\teacher_entry_app\obj\x86\Debug\App.g.cs
+c:\users\abhinay\documents\visual studio 2010\Projects\teacher_entry_app\teacher_entry_app\obj\x86\Debug\teacher_entry_app_MarkupCompile.cache
+c:\users\abhinay\documents\visual studio 2010\Projects\teacher_entry_app\teacher_entry_app\obj\x86\Debug\teacher_entry_app.g.resources
+c:\users\abhinay\documents\visual studio 2010\Projects\teacher_entry_app\teacher_entry_app\obj\x86\Debug\teacher_entry_app.Properties.Resources.resources
+c:\users\abhinay\documents\visual studio 2010\Projects\teacher_entry_app\teacher_entry_app\obj\x86\Debug\teacher_entry_app.csproj.GenerateResource.Cache
+c:\users\abhinay\documents\visual studio 2010\Projects\teacher_entry_app\teacher_entry_app\obj\x86\Debug\teacher_entry_app.exe
+c:\users\abhinay\documents\visual studio 2010\Projects\teacher_entry_app\teacher_entry_app\obj\x86\Debug\teacher_entry_app.pdb
